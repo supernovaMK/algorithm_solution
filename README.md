@@ -29,5 +29,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0133-clone-graph) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
