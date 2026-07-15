@@ -1,10 +1,11 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Set<Integer> set = Arrays.stream(nums).boxed().collect(Collectors.toSet());
-        if(nums.length==set.size()){
-            return false;
+        Set<Integer> set = new HashSet<>();
+        for(var k: nums){
+            if(!set.add(k)){
+                return true;
+            }
         }
-
-        return true;
+        return false;
     }
 }
