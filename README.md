@@ -18,6 +18,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -32,6 +33,7 @@
 | [0001-two-sum](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0242-valid-anagram) |
@@ -42,6 +44,7 @@
 | [0001-two-sum](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0347-top-k-frequent-elements) |
