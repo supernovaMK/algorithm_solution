@@ -34,6 +34,7 @@
 | [0049-group-anagrams](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0347-top-k-frequent-elements) |
 ## Array
 |  |
@@ -49,11 +50,13 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
