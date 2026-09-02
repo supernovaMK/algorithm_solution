@@ -52,6 +52,7 @@
 | [0036-valid-sudoku](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0128-longest-consecutive-sequence) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1071-greatest-common-divisor-of-strings) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
