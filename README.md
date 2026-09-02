@@ -51,6 +51,7 @@
 | [0015-3sum](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0075-sort-colors) |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
