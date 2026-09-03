@@ -62,6 +62,7 @@
 | [0217-contains-duplicate](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0347-top-k-frequent-elements) |
+| [0875-koko-eating-bananas](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
