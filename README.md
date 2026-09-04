@@ -9,6 +9,7 @@
 | [0133-clone-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -16,6 +17,7 @@
 | [0133-clone-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -29,6 +31,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Table
 |  |
@@ -94,6 +97,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0743-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -174,4 +178,12 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0046-permutations) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
