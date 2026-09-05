@@ -1,26 +1,39 @@
 class Solution {
+    int [] parent;
     public int findCircleNum(int[][] isConnected) {
-        boolean[] visited = new boolean[isConnected.length];
-        int count = 0;
-        Deque<Integer> deque = new ArrayDeque<>();
-        for (int a = 0; a < isConnected.length; a++) {
-            if (visited[a])
-                continue;
-
-            deque.push(a);
-            visited[a] = true;
-            count += 1;
-            while (!deque.isEmpty()) {
-                int cur = deque.pop();
-                for (int a1 = 0; a1 < isConnected[cur].length; a1++) {
-                    if (visited[a1] == false && isConnected[cur][a1] == 1) {
-                        visited[a1] = true;
-                        deque.push(a1);
-                    }
+        int n = isConnected.length;
+        parent = new int[n+1];
+        for(int i=0;i<n;i++){
+            parent[i]=i;
+        }
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(isConnected[i][j]==1 && i!=j){
+                    union(i,j);
                 }
             }
         }
-
+        int count =0;
+        for(int i=0;i<n;i++){
+            if(parent[i]==i) count++;
+        }
         return count;
+    }
+
+    public void union(int i,int j){
+        int rootA = find(i);
+        int rootB = find(j);
+
+        if(rootA!=rootB)
+            parent[rootB] = rootA;
+    }
+
+    public int find(int k){
+        if(parent[k]==k){
+            return parent[k];
+        }
+
+        parent[k]=find(parent[k]);
+        return parent[k];
     }
 }
