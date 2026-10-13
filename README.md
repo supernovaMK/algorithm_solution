@@ -159,6 +159,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1162-as-far-from-land-as-possible](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1162-as-far-from-land-as-possible) |
 ## Stack
@@ -178,6 +179,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
 |  |
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0743-network-delay-time) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
