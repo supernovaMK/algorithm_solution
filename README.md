@@ -160,6 +160,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0198-house-robber) |
@@ -181,6 +182,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
@@ -211,4 +213,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
