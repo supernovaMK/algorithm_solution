@@ -25,7 +25,7 @@ class Solution {
             for(var nl:nowList){
                 if(distance[nl[0]]>distance[now[0]]+nl[1]){
                     distance[nl[0]] = distance[now[0]]+nl[1];
-                    queue.offer(nl);
+                    queue.offer(new int[]{nl[0],distance[nl[0]]});
                 }
             }
         }
