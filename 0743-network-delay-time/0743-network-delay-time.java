@@ -11,21 +11,21 @@ class Solution {
             map.get(u).add(new int[]{t,l});
         }
 
-        Deque<Integer> queue = new ArrayDeque<>();
-        queue.offer(k);
+        Queue<int[]> queue = new PriorityQueue<>((a,b)->a[1]-b[1]);
+        queue.offer(new int[]{k,0});
 
         int [] distance = new int[n+1];
         Arrays.fill(distance,Integer.MAX_VALUE);
         distance[k] = 0;
 
         while(!queue.isEmpty()){
-            int now = queue.poll();
-            List<int[]> nowList  = map.get(now);
+            int[] now = queue.poll();
+            List<int[]> nowList  = map.get(now[0]);
             if (nowList == null) continue;
             for(var nl:nowList){
-                if(distance[nl[0]]>distance[now]+nl[1]){
-                    distance[nl[0]] = distance[now]+nl[1];
-                    queue.offer(nl[0]);
+                if(distance[nl[0]]>distance[now[0]]+nl[1]){
+                    distance[nl[0]] = distance[now[0]]+nl[1];
+                    queue.offer(nl);
                 }
             }
         }
