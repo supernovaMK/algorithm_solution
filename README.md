@@ -30,6 +30,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -37,6 +38,7 @@
 | [0133-clone-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Table
 |  |
@@ -78,6 +80,7 @@
 | [0934-shortest-bridge](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1162-as-far-from-land-as-possible) |
+| [1584-min-cost-to-connect-all-points](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1584-min-cost-to-connect-all-points) |
 ## Sorting
 |  |
 | ------- |
@@ -228,4 +231,20 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0322-coin-change) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
