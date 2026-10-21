@@ -1,41 +1,41 @@
 class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
         Map<Integer,List<int[]>> map = new HashMap<>();
+        
+        for(int i = 1;i<=n;i++){
+            map.putIfAbsent(i,new ArrayList<>());
+        }
+        
         for(var time:times){
-            int u = time[0];
-            int t = time[1];
-            int l = time[2];
-
-            map.putIfAbsent(u,new ArrayList<>());
-            
-            map.get(u).add(new int[]{t,l});
+            map.get(time[0]).add(new int[]{time[1],time[2]});
         }
 
         Queue<int[]> queue = new PriorityQueue<>((a,b)->a[1]-b[1]);
-        queue.offer(new int[]{k,0});
+        int[] dist = new int[n+1];
+        Arrays.fill(dist,Integer.MAX_VALUE);
 
-        int [] distance = new int[n+1];
-        Arrays.fill(distance,Integer.MAX_VALUE);
-        distance[k] = 0;
+        queue.offer(new int[]{k,0});
+        dist[k] = 0 ;
 
         while(!queue.isEmpty()){
-            int[] now = queue.poll();
-            List<int[]> nowList  = map.get(now[0]);
-            if (nowList == null) continue;
-            for(var nl:nowList){
-                if(distance[nl[0]]>distance[now[0]]+nl[1]){
-                    distance[nl[0]] = distance[now[0]]+nl[1];
-                    queue.offer(new int[]{nl[0],distance[nl[0]]});
-                }
+            int []q = queue.poll();
+            int q1 = q[0];
+            int q2 = q[1];
+            if(dist[q1]<q2) continue;
+            for(var m:map.get(q1)){
+                int a = m[0];
+                int b= m[1];
+                
+                if(dist[a]>dist[q1]+b) {dist[a] = dist[q1]+b;
+                queue.offer(new int[]{a,dist[a]});}
             }
         }
-        int answer = 0;
 
+        int answer = 0;
         for(int i=1;i<=n;i++){
-            if(distance[i]==Integer.MAX_VALUE) return -1;
-            answer =  Math.max(answer,distance[i]);
+            answer = Math.max(answer,dist[i]);
         }
 
-        return answer;
+        return answer!=Integer.MAX_VALUE?answer:-1;
     }
 }
